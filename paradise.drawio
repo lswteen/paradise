@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T10:46:59.834Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="NP2WeXJZSy6A1WCK_Ovw" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T11:48:01.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="fiv4i0-XNpi9F65QG1Dm" version="16.0.3" type="github">
   <diagram id="Z6NiFY0h-oDoV4ST4Vd7" name="Page-1">
-    <mxGraphModel dx="1670" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="1325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataCenter;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="967.8" width="123" height="142" as="geometry" />
+          <mxGeometry x="1860" y="1006.6" width="123" height="142" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="880" width="30.8" height="70.6" as="geometry" />
+          <mxGeometry x="836.7" y="1680" width="30.8" height="70.6" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="880" width="30.8" height="70.6" as="geometry" />
+          <mxGeometry x="886.7" y="1680" width="30.8" height="70.6" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="880" width="30.8" height="70.6" as="geometry" />
+          <mxGeometry x="936.7" y="1680" width="30.8" height="70.6" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="966" width="30.8" height="70.6" as="geometry" />
+          <mxGeometry x="836.7" y="1766" width="30.8" height="70.6" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="966" width="30.8" height="70.6" as="geometry" />
+          <mxGeometry x="886.7" y="1766" width="30.8" height="70.6" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="966" width="30.8" height="70.6" as="geometry" />
+          <mxGeometry x="936.7" y="1766" width="30.8" height="70.6" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.client;aspect=fixed;strokeColor=none;fillColor=#777777;" vertex="1" parent="1">
           <mxGeometry x="580" y="1276" width="60" height="104" as="geometry" />
@@ -77,25 +77,49 @@
           <mxGeometry x="457.49999999999994" y="946.6" width="62" height="68.8" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-43" value="&lt;h1&gt;Front End&lt;/h1&gt;&lt;p&gt;Paradise Service Web 에서 전달받은 User의 행위를&amp;nbsp;&lt;/p&gt;&lt;p&gt;화면에 전달하기 위해서 API Gateway로 Requet 요청합니다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="72" y="727" width="410" height="160" as="geometry" />
+          <mxGeometry x="147.45" y="820" width="410" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="lUhxGxCZctTC5c8_h4Hy-44" value="&lt;h1&gt;Back End&lt;/h1&gt;&lt;p&gt;Front End 에서 요청받은 Restful API 인터페이스를&amp;nbsp;&lt;/p&gt;&lt;p&gt;MSA Gateway를 통해서 Backend Application 에 전달후 Json Response 형태로 전달하는 Proxy 역활 기능&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="793" y="380" width="410" height="160" as="geometry" />
+        <mxCell id="lUhxGxCZctTC5c8_h4Hy-44" value="&lt;h1&gt;Back End&lt;/h1&gt;&lt;p&gt;여행 지식 도메인 비지니에 필요한&amp;nbsp;&lt;br&gt;회원, 여행정보, 결제, 추천검색 등을 제공하는 API를 제공합니다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="786.63" y="400" width="410" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-45" value="&lt;h1&gt;Paradise Service Web&lt;/h1&gt;&lt;p&gt;파라다이스 도메인에서 제공하는 서비스에 노출되는 화면에&amp;nbsp;&lt;/p&gt;&lt;p&gt;Html, Css, Javascript 해당하는 퍼블리싱 들을 브라우저 엔진에서 해석가능한&amp;nbsp;&lt;/p&gt;&lt;p&gt;컴파일된 Html Document 문서를 전달합니다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="964" y="1160" width="410" height="160" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-46" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.s3Bucket;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="1270" width="61.5" height="63.800000000000004" as="geometry" />
+          <mxGeometry x="1360" y="1406.2" width="61.5" height="63.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-47" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.lambda;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="1333.8" width="92" height="109.5" as="geometry" />
+          <mxGeometry x="1080" y="1550" width="92" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-48" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.elasticLoadBalancing;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="580" y="1008.8000000000002" width="92" height="88.17" as="geometry" />
         </mxCell>
         <mxCell id="lUhxGxCZctTC5c8_h4Hy-49" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNW;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="680" y="1100.81" width="106.63" height="60.93" as="geometry" />
+        </mxCell>
+        <mxCell id="lUhxGxCZctTC5c8_h4Hy-50" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.flatEdge;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="1470" width="186.09" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="lUhxGxCZctTC5c8_h4Hy-51" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.workflowService;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1505.6" y="1231.6" width="182.20000000000002" height="148.4" as="geometry" />
+        </mxCell>
+        <mxCell id="lUhxGxCZctTC5c8_h4Hy-52" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNE;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1370" width="80.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="lUhxGxCZctTC5c8_h4Hy-53" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNE;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1687.8" y="1140" width="205.8" height="117.6" as="geometry" />
+        </mxCell>
+        <mxCell id="lUhxGxCZctTC5c8_h4Hy-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dynamoDb;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1374" y="706.6" width="181.5" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lUhxGxCZctTC5c8_h4Hy-56" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowSE;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1157.5" y="660" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lUhxGxCZctTC5c8_h4Hy-57" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNW;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1555.5" y="896.6" width="303.45" height="173.4" as="geometry" />
+        </mxCell>
+        <mxCell id="lUhxGxCZctTC5c8_h4Hy-58" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.arrowNE;fillColor=#000000;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="992.25" y="1660" width="80.5" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
